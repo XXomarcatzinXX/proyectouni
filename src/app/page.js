@@ -1,13 +1,10 @@
 "use client";
-import { useState } from 'react';
-import 'boxicons'
-function Navbar() {
-  const [isOpen, setIsOpen] = useState(false);
-
+function page() {
   return (
     <main>
+      <div></div>
     </main>
   );
 }
 
-export default Navbar;
+export default page;
