@@ -1,8 +1,8 @@
 "use client";
 import { useState } from 'react';
-import 'boxicons'
+import 'boxicons';
 import Image from "next/image";
-import universidad from ''
+import universidad from '/src/public/assets/2 MAS UNIVERSIDADES/IMAGENES PAGINA WEB +U/+universidades.png'
 function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
 
