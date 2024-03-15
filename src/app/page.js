@@ -6,12 +6,9 @@ import Navbar from "./navbar/page";
 function page() {
   return (
     <main>
-    <h1>
-      Hola mundo
-    </h1>
-    
-    
-    
+      <h1>
+        Hola mundo
+      </h1>
     </main>
   );
 }
