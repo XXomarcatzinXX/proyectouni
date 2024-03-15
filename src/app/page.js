@@ -7,7 +7,7 @@ function page() {
   return (
     <main>
       <h1>
-        Hola mundo
+        Hola mundoss
       </h1>
     </main>
   );
