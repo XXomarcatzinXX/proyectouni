@@ -1,8 +1,17 @@
 "use client";
+
+import { Children } from "react";
+import Navbar from "./navbar/page";
+
 function page() {
   return (
     <main>
-      <div></div>
+    <h1>
+      Hola mundo
+    </h1>
+    
+    
+    
     </main>
   );
 }

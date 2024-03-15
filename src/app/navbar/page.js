@@ -34,17 +34,17 @@ function Navbar() {
         >
           <div className="text-sm lg:flex-grow">
             <a
-              href="#"
+              href="/"
               className="block mt-4 lg:inline-block lg:mt-0 text-white hover:text-orange-600 mr-4">
               Home
             </a>
             <a
-              href="#"
+              href="/"
               className="block mt-4 lg:inline-block lg:mt-0 text-white hover:text-orange-600 mr-4">
               iniciar sesion
             </a>
             <a
-              href="#"
+              href="/about"
               className="block mt-4 lg:inline-block lg:mt-0 text-white hover:text-orange-600 mr-4">
               Blog
             </a>
